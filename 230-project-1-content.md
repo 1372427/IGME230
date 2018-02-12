@@ -27,6 +27,17 @@ There will be looped ambient sound. There will be different sounds for the score
 
 
 ### Control
+|             |Desktop    |Phone      |Tablet|
+|------------:|:----------|:---------:|----:|
+|Move Up       |Arrow Up  |Tilt Up    |
+|Move Down     |Arrow Down|Tilt Down  |
+|Move Left     |Arrow Left|Tilt Left  |
+|Move Right    |Arrow Right|Tilt Right|
+|Shoot         |A          |Tap       |
+|Shield        |D          |Hold      |
+|Speed Up      |S          |Double Swipe|
+
+
 #### Desktop - Keyboard
 Controls will include the following:
 - Arrow Up: player move up
