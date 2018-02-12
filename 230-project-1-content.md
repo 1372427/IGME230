@@ -1,28 +1,28 @@
-#Darkness
-##High Concept
+# Darkness
+## High Concept
 If you let an enemy pass you, the world will get darker; maintain the light and kill the boss!
 
-##Genre
+## Genre
 This will be a side-scrolling shooter game.
 
-##Platform
+## Platform
 Intending for this to be universal.
 
-##Story
+## Story
 
-##Esthetics
+## Esthetics
 
-##Gameplay
-###Mechanics
+## Gameplay
+### Mechanics
 
-###Control
+### Control
 
-###Teaching the game
+### Teaching the game
 
-###Player learning
+### Player learning
 
-##Screenshots
+## Screenshots
 
-##Other
+## Other
 
-##About the developer
+## About the developer
